@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"te",
+				"text-align-last\tproperty"
+			],
+			[
+				"grip-",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"g",
+				"grid-gap\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"siz",
+				"size\tproperty"
+			],
+			[
+				"ma",
+				"max-height\tproperty"
+			],
+			[
+				"grid",
+				"grid-column-end\tproperty"
+			],
+			[
+				"grid-col",
+				"grid-column-start\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"in",
+				"inline-table\tdisplay"
+			],
+			[
+				"css",
+				"css"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"Re",
+				"Raleway"
+			],
+			[
+				"tog",
+				"toggleDone"
+			],
+			[
+				"add",
+				"addListAfterKeypress"
+			],
+			[
+				"inp",
+				"inputLength"
+			],
+			[
+				"cre",
+				"createListElement"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"pa",
+				"passwordPrompt"
+			],
+			[
+				"use",
+				"userNamePrompt"
+			],
+			[
+				"ch",
+				"checkDriverAge2"
+			],
+			[
+				"chec",
+				"checkDriverAge"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"outlo",
+				"outline-color\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"tra",
+				"transition-timing-function\tproperty"
+			],
+			[
+				"RG",
+				"rgba()\tcolor"
+			],
+			[
+				"lef",
+				"margin-left\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"posi",
+				"object-position\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"tran",
+				"transform-origin\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rem/Desktop/Web Dev/CSS Layout/project-start/style.css",
+		"/C/Users/Rem/Desktop/Web Dev/CSS Layout/project-start/index.html",
+		"/C/Users/Rem/Desktop/Web Dev/Building 1/style.css",
+		"/C/Users/Rem/Desktop/Web Dev/responsive website/index.html",
+		"/C/Users/Rem/Desktop/Web Dev/Building 1/index.html",
+		"/C/Users/Rem/Desktop/Web Dev/Animal Emojis/index.html",
+		"/C/Users/Rem/Desktop/Web Dev/Animal Emojis/style.css",
+		"/C/Users/Rem/Desktop/Web Dev/CSS Layout/style.css",
+		"/C/Users/Rem/Desktop/Web Dev/CSS Layout/index.html",
+		"/C/Users/Rem/Desktop/Web Dev/Bootstrap Exercise 2/style.css",
+		"/C/Users/Rem/Desktop/Web Dev/Bootstrap Exercise 2/index.html",
+		"/C/Users/Rem/Desktop/Web Dev/Bootstrap Exercise/style.css",
+		"/C/Users/Rem/Desktop/Web Dev/Bootstrap Exercise/index.html",
+		"/C/Users/Rem/Downloads/CSS Free Templates/animate.css",
+		"/C/Users/Rem/Desktop/Gradient Background Generator/script.js",
+		"/C/Users/Rem/Desktop/Gradient Background Generator/style.css",
+		"/C/Users/Rem/Desktop/Gradient Background Generator/index.html",
+		"/C/Users/Rem/AppData/Local/Temp/iMobie Temp/Sessions/201903041103308375/AnyTrans_Transfer_Detail_20190304.txt",
+		"/C/Users/Rem/AppData/Local/Temp/iMobie Temp/Sessions/201903041103308375/Excape Sculptures Links",
+		"/C/Users/Rem/Desktop/Notes/Add updated versions of FAQ, Return & Exchange pol",
+		"/C/Users/Rem/Desktop/Always on Top.ahk",
+		"/C/Users/Rem/Desktop/Always On Top.ahk",
+		"/C/Users/Rem/Desktop/Notes/Drivers and Handlers policies update.txt",
+		"/C/Users/Rem/Desktop/DOM Events/style.css",
+		"/C/Users/Rem/Desktop/DOM Events/script.js",
+		"/C/Users/Rem/Desktop/DOM Events/index.html",
+		"/C/Users/Rem/Desktop/DOM/DOM-selectors.txt",
+		"/C/Users/Rem/Desktop/DOM/script.js",
+		"/C/Users/Rem/Desktop/DOM/index.html",
+		"/C/Users/Rem/Desktop/JavaScript Practice/index.html",
+		"/C/Users/Rem/Downloads/exercise7-SOLUTIONS.js",
+		"/C/Users/Rem/Desktop/Facebook/script.js",
+		"/C/Users/Rem/AppData/Local/Temp/9599cdad-1e21-4383-99b7-f67b8d29f337.tmp.txt",
+		"/C/Users/Rem/Downloads/exercise 7 sol.js",
+		"/C/Users/Rem/Downloads/exercise6.txt",
+		"/C/Users/Rem/Downloads/exercise5.txt",
+		"/C/Users/Rem/Desktop/better keyless car.js",
+		"/C/Users/Rem/Downloads/exercise5-SOLUTIONS.js",
+		"/C/Users/Rem/Desktop/Keyless Car.js",
+		"/C/Users/Rem/Downloads/exercise4.txt",
+		"/C/Users/Rem/Downloads/exercise4-SOLUTIONS.txt",
+		"/C/Users/Rem/Desktop/calculator.js",
+		"/C/Users/Rem/Desktop/animate/index.html",
+		"/C/Users/Rem/Desktop/animate/style.css",
+		"/C/Users/Rem/Downloads/exercise2.txt",
+		"/C/Users/Rem/Downloads/exercise2-SOLUTIONS.txt",
+		"/C/Users/Rem/Downloads/exercise3.txt",
+		"/C/Users/Rem/Downloads/exercise3-SOLUTIONS.txt",
+		"/C/Users/Rem/Desktop/exercise1.txt",
+		"/C/Users/Rem/Desktop/exercise1-SOLUTIONS.txt",
+		"/C/Users/Rem/Desktop/startup landing page/style.css",
+		"/C/Users/Rem/Desktop/animate.css",
+		"/C/Users/Rem/Desktop/robot friend/index.html",
+		"/C/Users/Rem/Desktop/robot friend/style.css",
+		"/C/Users/Rem/Desktop/site 3/login.html",
+		"/C/Users/Rem/Desktop/site 3/style.css",
+		"/C/Users/Rem/Desktop/site 3/index.html",
+		"/C/Users/Rem/Desktop/style2.css",
+		"/C/Users/Rem/Desktop/index.html",
+		"/C/Users/Rem/Desktop/about.html",
+		"/C/Users/Rem/Desktop/style.css",
+		"/C/Users/Rem/Desktop/login.html",
+		"/C/Users/Rem/Desktop/register.html",
+		"/C/Users/Rem/Desktop/riddle3.html",
+		"/C/Users/Rem/Desktop/riddle2.html",
+		"/C/Users/Rem/Desktop/answer2.html",
+		"/C/Users/Rem/Desktop/answer3.html",
+		"/C/Users/Rem/Desktop/answer1.html",
+		"/C/Users/Rem/Desktop/riddle1.html",
+		"/C/Users/Rem/Desktop/Exit.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
